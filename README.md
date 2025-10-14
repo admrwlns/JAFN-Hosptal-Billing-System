@@ -1,5 +1,5 @@
 # JAFN-Hospital-Billing-System
-A C-based console application developed that is designed to manage and calculate patient billing for JAFN Hospital, supporting both inpatient and outpatient services.
+A C-based console application that is designed to manage and calculate patient billing for JAFN Hospital, supporting both inpatient and outpatient services.
 
 ## Overview
 **The Hospital Billing System allows hospital staff to:**
