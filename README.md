@@ -9,7 +9,6 @@ A C-based console application that is designed to manage and calculate patient b
 - Automatically calculate billing based on hospital pricing rules
 - View detailed bills for individual patients
 
----
 
 ## Features
 **1. Secure Login System** – Staff authentication using ID and password
@@ -24,14 +23,12 @@ A C-based console application that is designed to manage and calculate patient b
 **4. Bill Display** – Shows itemized billing for selected patients
 **5. Input Validation** – Handles invalid inputs gracefully
 
----
 
 ## Technologies Used
 **Language:** C
 **Concepts:** Arrays, Functions, Loops, Conditional Statements, User Input Validation
 **Tools:** Code::Blocks / Dev C++ / Any C Compiler
 
----
 
 ## How to Run
 1. Compile the .cpp file using a C compiler
